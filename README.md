@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hey there 👋
+- 🔭 I’m currently pursuing B-tech at sree vidyankethan engineering college
+- 📫 How to reach me: thahirashaffi2002@gmail.com
 <!--
 **Thahiraa/Thahiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
